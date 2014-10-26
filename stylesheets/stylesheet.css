@@ -44,8 +44,6 @@ header {
 
 header h1 {
   font-size: 30px;
-  max-width: 600px;
-  margin: 0 auto;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
@@ -58,6 +56,7 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+/* Required to get the header to display how I want. */
 div.container:nth-child(1) > h1:nth-child(1) {
   max-width: 600px;
   margin: 0 auto;
@@ -105,8 +104,6 @@ h1, h2, h3, h4, h5, h6 {
 
 #main_content h1 {
   font-size: 30px;
-  max-width: 600px;
-  margin: 0 auto;
 }
 
 #main_content h2 {
