@@ -62,7 +62,10 @@ div.container:nth-child(1) > h1:nth-child(1) {
   margin: 0 auto;
 }
 
-/*#downloads*/
+#downloads {
+  margin-top: 8px;
+}
+
 div.container:nth-child(1) {
   text-align: center;
 }
