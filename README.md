@@ -1,4 +1,4 @@
 edge226.github.io
 =================
 
-Geek, Linux enthusiast and Bash programmer.
+This is the place for all the markdown files used in creating this site.
