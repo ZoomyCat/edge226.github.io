@@ -62,8 +62,9 @@ div.container:nth-child(1) > h1:nth-child(1) {
   margin: 0 auto;
 }
 
-#downloads {
-  justify-items: legacy && center;
+div.container {
+  margin-left: auto ;
+  margin-right: auto ;
 }
 
 header h1:before {
