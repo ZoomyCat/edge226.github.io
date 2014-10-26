@@ -40,12 +40,12 @@ header {
   border-bottom: 1px dashed #b5e853;
   padding: 20px 0;
   margin: 0 0 40px 0;
-  max-width: 600px;
-  margin: 0 auto;
 }
 
 header h1 {
   font-size: 30px;
+  max-width: 600px;
+  margin: 0 auto;
   line-height: 1.5;
   margin: 0 0 0 -40px;
   font-weight: bold;
@@ -67,6 +67,8 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+  max-width: 600px;
+  margin: 0 auto;
 }
 
 #downloads .btn {
