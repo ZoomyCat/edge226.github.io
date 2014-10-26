@@ -64,6 +64,7 @@ div.container:nth-child(1) > h1:nth-child(1) {
 
 .btn {
   align-content: middle;
+  margin: 0 auto;
 }
 
 header h1:before {
