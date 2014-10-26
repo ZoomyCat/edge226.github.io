@@ -67,10 +67,10 @@ div.container:nth-child(1) {
   text-align: center;
 }
 
-header h1:before {
+/*header h1:before {
   content: "./ ";
   font-size: 24px;
-}
+}*/
 
 header h2 {
   font-size: 18px;
