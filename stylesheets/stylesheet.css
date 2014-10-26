@@ -58,6 +58,11 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
+div.container:nth-child(1) > h1:nth-child(1) {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
 header h1:before {
   content: "./ ";
   font-size: 24px;
