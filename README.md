@@ -10,4 +10,5 @@ name | on github | web/doc | Type | What it does?
 ----|----|----|----|----
 lucid-build | [lucid-build](https://github.com/edge226/lucid/tree/lucid-build) | WIP | Built from scratch | Automated build tool. - Logic to be used within the lbf branch.
 lbf | [lbf](https://github.com/edge226/lucid/tree/lbf) | WIP | Built from scratch | The future development tools for the Lucid OS distribution.
+devtools | [devtools](https://github.com/edge226/lucid/tree/devtools) | WIP | Modified. | Used in compiling source code into binaries.
 documentation | [doc](https://github.com/edge226/lucid/tree/doc) | N/A | Written from scratch | All docs created for lucid os. This information will eventually be moved to a website.
