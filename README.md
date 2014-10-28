@@ -1,4 +1,4 @@
-I've been a geek all my life and have been using Linux a long time. I've done a lot of experiments in that time. I am the co-founder, Lead designer and Lead programmer of the future Lucid OS distribution.
+I've been a geek all my life and have been using Linux a long time. I've done a lot of experiments in that time. I am a co-founder, Lead designer and Lead programmer of the future Lucid OS distribution.
 
 ### My Vision.
 
