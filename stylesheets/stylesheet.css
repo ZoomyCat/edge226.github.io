@@ -56,11 +56,11 @@ header h1 {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Required to get the header to display how I want. */
+/* Required to get the header to display how I want.
 div.container:nth-child(1) > h1:nth-child(1) {
   max-width: 600px;
   margin: 0 auto;
-}
+}*/
 
 #downloads {
   margin-top: 8px;
@@ -79,8 +79,8 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
-  max-width: 600px;
-  margin: 0 auto;
+/*  max-width: 600px;
+  margin: 0 auto; */
 }
 
 #downloads .btn {
