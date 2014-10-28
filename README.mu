@@ -10,7 +10,8 @@
 <tr>
 <th>name</th>
 <th>on github</th>
-<th>webpage/documentation</th>
+<th>web/doc</th>
+<th>Type</th>
 <th>What it does?</th>
 </tr>
 </thead><tbody>
@@ -18,18 +19,21 @@
 <td>lucid-build</td>
 <td><a href="https://github.com/edge226/lucid/tree/lucid-build">lucid-build</a></td>
 <td>WIP</td>
+<td>Built from scratch</td>
 <td>Automated build tool. - Logic to be used within the lbf branch.</td>
 </tr>
 <tr>
 <td>lbf</td>
 <td><a href="https://github.com/edge226/lucid/tree/lbf">lbf</a></td>
 <td>WIP</td>
+<td>Built from scratch</td>
 <td>The future development tools for the Lucid OS distribution.</td>
 </tr>
 <tr>
 <td>documentation</td>
 <td><a href="https://github.com/edge226/lucid/tree/doc">doc</a></td>
 <td>N/A</td>
+<td>Written from scratch</td>
 <td>All docs created for lucid os. This information will eventually be moved to a website.</td>
 </tr>
 </tbody></table>

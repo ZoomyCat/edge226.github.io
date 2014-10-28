@@ -6,8 +6,8 @@ My goal is to create a operating system that people can use within all stages of
 
 ### What I've worked on so far.
 
-name | on github | webpage/documentation | What it does?
-----|----|----|----
-lucid-build | [lucid-build](https://github.com/edge226/lucid/tree/lucid-build) | WIP | Automated build tool. - Logic to be used within the lbf branch.
-lbf | [lbf](https://github.com/edge226/lucid/tree/lbf) | WIP | The future development tools for the Lucid OS distribution.
-documentation | [doc](https://github.com/edge226/lucid/tree/doc) | N/A | All docs created for lucid os. This information will eventually be moved to a website.
+name | on github | web/doc | Type | What it does?
+----|----|----|----|----
+lucid-build | [lucid-build](https://github.com/edge226/lucid/tree/lucid-build) | WIP | Built from scratch | Automated build tool. - Logic to be used within the lbf branch.
+lbf | [lbf](https://github.com/edge226/lucid/tree/lbf) | WIP | Built from scratch | The future development tools for the Lucid OS distribution.
+documentation | [doc](https://github.com/edge226/lucid/tree/doc) | N/A | Written from scratch | All docs created for lucid os. This information will eventually be moved to a website.
