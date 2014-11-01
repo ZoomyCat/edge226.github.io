@@ -11,4 +11,4 @@ I wish for an environment where anyone is able to be comfortable enough to be ab
 Restrictions shall be lifted. Those limitations that prevent you from trying something new. Those tasks that are more difficult than they should be for no apparent reason at all. Those undocumented programs. Those unnoticed design flaws. Those restrictions that prevent progression.
 
 Those with an open mind will have the logical path
-of design shown to them.
+of design shown to them. I will code the way.
