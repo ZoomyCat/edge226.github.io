@@ -13,3 +13,7 @@
 .sidebar > h3{
   text-align: center;
 }
+
+a.btn-sub {
+  margin-left: 10%
+}
