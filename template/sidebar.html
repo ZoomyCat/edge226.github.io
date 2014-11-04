@@ -1,79 +1,19 @@
 <section class="sidebar">
 
-<h3> Project Websites </h3>
-<ul class="menu">
-<li><a href="http://edge226.github.io/" class="btn btn-github">edge226</a></li>
-<li><a href="http://edge226.github.io/lucid/" class="btn btn-github">lucid</a></li>
-<li><a href="#" class="btn btn-github" onclick="navi(0)">ghmd-ccs</a>
-  <ul id="mnu0" class="submenu off">
-    <li><a href="http://edge226.github.io/ghmd-ccs/" class="btn btn-github btn-sub">Information test</a></li>
-  </ul>
-</li>
-<li><a href="http://edge226.github.io/projects/" class="btn btn-github">Projects Table</a></li>
-</ul>
+<h3> Projects Websites </h3>
+<a href="http://edge226.github.io/" class="btn btn-github">edge226</a>
+<a href="http://edge226.github.io/lucid/" class="btn btn-github">lucid</a>
+<a href="" class="btn btn-github">ghmd-ccs</a>
+<a href="http://edge226.github.io/ghmd-ccs/" class="btn btn-github btn-sub">Information</a>
+<a href="http://edge226.github.io/projects/" class="btn btn-github">Projects Table</a>
+
 
 <h3>Communities</h3>
-<ul class="menu">
-<li><a href="#" class="btn btn-github" onclick="navi(1)">test menu</a>
-  <ul id="mnu1" class="submenu off">
-    <li><a href="http://www.cupoflinux.com" target="_blank" class="btn btn-github btn-sub">Cup of Linux</a></li>
-  </ul>
-</li>
-<li><a href="http://techandcoffee.info/" target="_blank" class="btn btn-github">Tech & Coffee</a></li>
-</ul>
+<a href="http://www.cupoflinux.com" target="_blank" class="btn btn-github">Cup of Linux</a>
+<a href="http://techandcoffee.info/" target="_blank" class="btn btn-github">Tech & Coffee</a>
+
 
 <h3>Friends of mine</h3>
-<ul class="menu">
-<li><a href="https://github.com/anexation" target="_blank" class="btn btn-github">Anex</a></li>
-<li><a href="https://github.com/JeroenMathon" target="_blank" class="btn btn-github">Jeroen Mathon</a></li>
-</ul>
-
+<a href="https://github.com/anexation" target="_blank" class="btn btn-github">Anex</a>
+<a href="https://github.com/JeroenMathon" target="_blank" class="btn btn-github">Jeroen Mathon</a>
 </section>
-<script>
-    function navi(target)
-    {
-        switch (target)
-        {
-            case 0:
-
-                if (document.getElementById("mnu0").className === "submenu off")
-                {
-                    // target submenu not currently displayed; so display it
-                    document.getElementById("mnu0").className = "submenu on"
-                    document.getElementById("mnu0").style.display = "block";
-
-                    // hide all other submenus
-                    document.getElementById("mnu1").className = "submenu off";
-                    document.getElementById("mnu1").style.display = "none";
-                }
-                else if (document.getElementById("mnu0").className === "submenu on")
-                {
-                    // target submenu is currently displayed;
-                    document.getElementById("mnu0").className = "submenu off";
-                    document.getElementById("mnu0").style.display = "none";
-                }
-
-            break;
-
-            case 1:
-                if (document.getElementById("mnu1").className === "submenu off")
-                {
-                    // target submenu not currently displayed; so display it
-                    document.getElementById("mnu1").className = "submenu on"
-                    document.getElementById("mnu1").style.display = "block";
-
-                    // hide all other submenus
-                    document.getElementById("mnu0").className = "submenu off";
-                    document.getElementById("mnu0").style.display = "none";
-                }
-                else if (document.getElementById("mnu1").className === "submenu on")
-                {
-                    // target submenu is currently displayed;
-                    document.getElementById("mnu1").className = "submenu off";
-                    document.getElementById("mnu1").style.display = "none";
-                }
-            break;
-        }
-        
-    }
-</script>
