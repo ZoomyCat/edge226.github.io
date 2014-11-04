@@ -10,39 +10,8 @@
   display: block;
 }
 
-.sidebar > h3 {
+.sidebar > h3{
   text-align: center;
-}
-
-
-.menu {
-	display: block;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	width: 100%;
-	height: auto;
-	list-style: none;
-}
-
-.menu li .submenu {
-	display: none;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	width: 100%;
-	height: auto;
-	list-style: none;
-}
-
-.menu li:active .submenu, .menu li:focus .submenu {
-	display: block;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	width: 100%;
-	height: auto;
-	list-style: none;
 }
 
 a.btn-sub {
