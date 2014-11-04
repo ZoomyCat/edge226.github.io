@@ -35,7 +35,7 @@
 	list-style: none;
 }
 
-.menu li:hover .submenu {
+.menu li:active .submenu, .menu li:focus .submenu {
 	display: block;
 	margin: 0;
 	padding: 0;
