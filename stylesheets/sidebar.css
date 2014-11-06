@@ -20,6 +20,18 @@
   color: #B5E853;
 }
 
+.menu-heading:hover {
+  background: #0c1858;
+}
+
+.menu-subheading:hover {
+  background: #0c1858;
+}
+
+.menu-entry:hover{
+  background: #0c1858;
+}
+
 .menu-entry {
   color: #a680ee;
   text-decoration: none;
