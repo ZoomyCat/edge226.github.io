@@ -14,35 +14,79 @@
   display: block;
 }
 
+.tree li {
+  line-height: 2.3;
+}
+
 .tree > li > .menu-heading {
   padding: 0;
   margin: -10px;
   color: #90e853;
+  padding:8px 18px;
+  margin-bottom: 18px;
+  border-radius: 50px;
+}
+
+.menu-heading {
+  -webkit-transition: ease 3s;
+  -o-transition: ease 3s;
+  -moz-transition: ease 3s;
+  transition: ease 3s;
 }
 
 .menu-entry {
   color: #A680EE;
   text-decoration: none;
+  -webkit-transition: ease 3s;
+  -o-transition: ease 3s;
+  -moz-transition: ease 3s;
+  transition: ease 3s;
 }
 
 .menu-subheading {
   color: #90e853;
+  -webkit-transition: ease 3s;
+  -o-transition: ease 3s;
+  -moz-transition: ease 3s;
+  transition: ease 3s;
 }
 
 .menu-heading:hover {
   background: #0b0735;
+  margin: -8px;
+  padding: 8px 18px;
+  margin-bottom: 18px;
+  border-radius: 50px;
+  -webkit-transition: ease 2s;
+  -o-transition: ease 2s;
+  -moz-transition: ease 2s;
+  transition: ease 2s;
 }
 
 .menu-subheading:hover {
-  background: #0b0735
+  background: #0b0735;
+  padding: 8px 18px;
+  margin-bottom: 18px;
+  border-radius: 50px;
+  -webkit-transition: ease 2s;
+  -o-transition: ease 2s;
+  -moz-transition: ease 2s;
+  transition: ease 2s;
 }
 
 .menu-entry:hover{
   background: #0b0735;
+  padding: 8px 18px;
+  margin-bottom: 18px;
+  border-radius: 50px;
+  -webkit-transition: ease 2s;
+  -o-transition: ease 2s;
+  -moz-transition: ease 2s;
+  transition: ease 2s;
 }
 
 .sidebar ul li:before {
-  margin-right: 12px;
+  margin-right: 0px;
   content: "";
 }
 
