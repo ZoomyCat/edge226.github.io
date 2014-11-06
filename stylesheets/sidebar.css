@@ -6,6 +6,14 @@
   float: left;
 }
 
+.subtree{
+  display: none;
+}
+
+.menu-heading-box:checked + .subtree {
+  display: block;
+}
+
 .tree > li > .menu-heading {
   padding: 0;
   margin: -10px;
@@ -26,7 +34,8 @@
   content: "";
 }
 
-.menu-heading-box {
+/*  Removes the visible checkbox. */
+ .menu-heading-box {
   display: none;
 }
 
