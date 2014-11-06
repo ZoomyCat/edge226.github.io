@@ -12,6 +12,15 @@
   color: #B5E853;
 }
 
+.menu-entry {
+  color: #B5E853;
+  text-decoration: none;
+}
+
+.menu-subheading {
+  color: #B5E853;
+}
+
 .sidebar ul li:before {
   margin-right: 12px;
   content: "";
