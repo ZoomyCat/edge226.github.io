@@ -9,6 +9,7 @@
 .tree > li > .menu-heading {
   padding: 0;
   margin: -10px;
+  color: #B5E853;
 }
 
 .sidebar ul li:before {
