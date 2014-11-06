@@ -17,28 +17,28 @@
 .tree > li > .menu-heading {
   padding: 0;
   margin: -10px;
-  color: #B5E853;
-}
-
-.menu-heading:hover {
-  background: #0c1858;
-}
-
-.menu-subheading:hover {
-  background: #0c1858;
-}
-
-.menu-entry:hover{
-  background: #0c1858;
+  color: #90e853;
 }
 
 .menu-entry {
-  color: #a680ee;
+  color: #A680EE;
   text-decoration: none;
 }
 
 .menu-subheading {
-  color: #B5E853;
+  color: #90e853;
+}
+
+.menu-heading:hover {
+  background: #0b0735;
+}
+
+.menu-subheading:hover {
+  background: #0b0735
+}
+
+.menu-entry:hover{
+  background: #0b0735;
 }
 
 .sidebar ul li:before {
