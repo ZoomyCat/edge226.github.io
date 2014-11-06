@@ -88,6 +88,9 @@ header h2 {
   display: inline-block;
   text-align: center;
   margin: 0;
+  /*
+  future download button text color.
+  color: #8653e8;*/
 }
 
 /* Main Content

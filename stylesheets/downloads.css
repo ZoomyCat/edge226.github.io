@@ -1,0 +1,23 @@
+.downloads .top-btn {
+  text-decoration: none;
+  color: #8653e8;padding:8px 18px;
+  margin-bottom: 18px;
+  border-radius: 50px;
+  -webkit-transition: ease 3s;
+  -o-transition: ease 3s;
+  -moz-transition: ease 3s;
+  transition: ease 3s;
+}
+
+.downloads .top-btn:hover {
+  text-decoration: none;
+  background: #0b0735;
+  color: #A680EE;
+  padding:8px 18px;
+  margin-bottom: 18px;
+  border-radius: 50px;
+  -webkit-transition: ease 2s;
+  -o-transition: ease 2s;
+  -moz-transition: ease 2s;
+  transition: ease 2s;
+}
