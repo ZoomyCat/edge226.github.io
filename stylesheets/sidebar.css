@@ -6,6 +6,28 @@
   float: left;
 }
 
+.tree > li > .menu-heading {
+  padding: 0;
+  margin: -10px;
+}
+
+.sidebar ul li:before {
+  margin-right: 12px;
+  content: "";
+}
+
+.menu-heading-box {
+  display: none;
+}
+
+.tree > li {
+  margin-left:
+}
+.subtree {
+  margin-left: -22px;
+}
+
+/* Old menu items.
 .sidebar > a {
   display: block;
 }
@@ -16,4 +38,4 @@
 
 a.btn-sub {
   margin-left: 10%
-}
+}*/
