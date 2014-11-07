@@ -3,10 +3,10 @@
   color: #8653e8;padding:8px 18px;
   margin-bottom: 18px;
   border-radius: 50px;
-  -webkit-transition: ease 3s;
-  -o-transition: ease 3s;
-  -moz-transition: ease 3s;
-  transition: ease 3s;
+  -webkit-transition: ease 1.5s;
+  -o-transition: ease 1.5s;
+  -moz-transition: ease 1.5s;
+  transition: ease 1.5s;
 }
 
 .downloads .top-btn:hover {
@@ -16,8 +16,8 @@
   padding:8px 18px;
   margin-bottom: 18px;
   border-radius: 50px;
-  -webkit-transition: ease 2s;
-  -o-transition: ease 2s;
-  -moz-transition: ease 2s;
-  transition: ease 2s;
+  -webkit-transition: ease 0.75s;
+  -o-transition: ease 0.75s;
+  -moz-transition: ease 0.75s;
+  transition: ease 0.75s;
 }

@@ -8,6 +8,7 @@
 
 .subtree{
   display: none;
+  margin-left: -22px;
 }
 
 .menu-heading-box:checked + .subtree {
@@ -20,69 +21,63 @@
 
 .tree > li > .menu-heading {
   padding: 0;
-  margin: -10px;
   color: #90e853;
   padding:8px 18px;
-  margin-bottom: 18px;
   border-radius: 50px;
 }
 
 .menu-heading {
-  -webkit-transition: ease 3s;
-  -o-transition: ease 3s;
-  -moz-transition: ease 3s;
-  transition: ease 3s;
+  -webkit-transition: ease 1.5s;
+  -o-transition: ease 1.5s;
+  -moz-transition: ease 1.5s;
+  transition: ease 1.5s;
 }
 
 .menu-entry {
   color: #A680EE;
   text-decoration: none;
-  -webkit-transition: ease 3s;
-  -o-transition: ease 3s;
-  -moz-transition: ease 3s;
-  transition: ease 3s;
+  -webkit-transition: ease 1.5s;
+  -o-transition: ease 1.5s;
+  -moz-transition: ease 1.5s;
+  transition: ease 1.5s;
 }
 
 .menu-subheading {
   color: #90e853;
-  -webkit-transition: ease 3s;
-  -o-transition: ease 3s;
-  -moz-transition: ease 3s;
-  transition: ease 3s;
+  -webkit-transition: ease 1.5s;
+  -o-transition: ease 1.5s;
+  -moz-transition: ease 1.5s;
+  transition: ease 1.5s;
 }
 
 .menu-heading:hover {
   background: #0b0735;
-  margin: -8px;
   padding: 8px 18px;
-  margin-bottom: 18px;
   border-radius: 50px;
-  -webkit-transition: ease 2s;
-  -o-transition: ease 2s;
-  -moz-transition: ease 2s;
-  transition: ease 2s;
+  -webkit-transition: ease 0.75s;
+  -o-transition: ease 0.75s;
+  -moz-transition: ease 0.75s;
+  transition: ease 0.75s;
 }
 
 .menu-subheading:hover {
   background: #0b0735;
   padding: 8px 18px;
-  margin-bottom: 18px;
   border-radius: 50px;
-  -webkit-transition: ease 2s;
-  -o-transition: ease 2s;
-  -moz-transition: ease 2s;
-  transition: ease 2s;
+  -webkit-transition: ease 0.75s;
+  -o-transition: ease 0.75s;
+  -moz-transition: ease 0.75s;
+  transition: ease 0.75s;
 }
 
 .menu-entry:hover{
   background: #0b0735;
   padding: 8px 18px;
-  margin-bottom: 18px;
   border-radius: 50px;
-  -webkit-transition: ease 2s;
-  -o-transition: ease 2s;
-  -moz-transition: ease 2s;
-  transition: ease 2s;
+  -webkit-transition: ease 0.75s;
+  -o-transition: ease 0.75s;
+  -moz-transition: ease 0.75s;
+  transition: ease 0.75s;
 }
 
 .sidebar ul li:before {
@@ -90,27 +85,11 @@
   content: "";
 }
 
+.sidebar ul {
+  margin-bottom: 0px;
+}
+
 /*  Removes the visible checkbox. */
  .menu-heading-box {
   display: none;
 }
-
-.tree > li {
-  margin-left:
-}
-.subtree {
-  margin-left: -22px;
-}
-
-/* Old menu items.
-.sidebar > a {
-  display: block;
-}
-
-.sidebar > h3{
-  text-align: center;
-}
-
-a.btn-sub {
-  margin-left: 10%
-}*/
