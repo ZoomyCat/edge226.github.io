@@ -42,6 +42,7 @@
 
 .menu-subheading {
   color: #90e853;
+  cursor: pointer;
   -webkit-transition: ease 1.5s;
   -o-transition: ease 1.5s;
   -moz-transition: ease 1.5s;
